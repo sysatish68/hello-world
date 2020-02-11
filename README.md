@@ -1,1 +1,3 @@
-# hello-world
+# hello-world 
+# Install python
+# Install opencv
